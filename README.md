@@ -2,7 +2,7 @@
 ## 2110305214 梁贵涵
 ## 作业1 词频统计图
 对周恩来选集（上）进行词频分析，生成词云图
-[wordCloud](https://qiankunzhengen.github.io/wordCloud.html)
+[wordCloud](https://github.com/qiankunzhengen/wordCloud.html)
 
 ## 作业2 中国地图、世界地图
 想进行的旅游线路图，以中国地图标出；
