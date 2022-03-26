@@ -1,5 +1,6 @@
-# -
-homework
-世界地图部分
-2021年世界各国GDP预测
-数据摘自世界经济信息网http://www.8pu.com/gdp/ranking_2021.html#
+#计算机科学与编程入门课程作业
+## 2110305214 梁贵涵
+##1.作业1
+作业1描述：对周恩来选集（上）进行词频分析，生成词云图
+
+【作业1链接】(https://qiankunzhengen.github.io/
